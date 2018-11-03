@@ -1,0 +1,9 @@
+C:\Users\trago\Desktop\Leap year\LeapYear.lib\bin\Debug\netstandard2.0\LeapYear.lib.deps.json
+C:\Users\trago\Desktop\Leap year\LeapYear.lib\bin\Debug\netstandard2.0\LeapYear.lib.dll
+C:\Users\trago\Desktop\Leap year\LeapYear.lib\bin\Debug\netstandard2.0\LeapYear.lib.pdb
+C:\Users\trago\Desktop\Leap year\LeapYear.lib\obj\Debug\netstandard2.0\LeapYear.lib.csprojAssemblyReference.cache
+C:\Users\trago\Desktop\Leap year\LeapYear.lib\obj\Debug\netstandard2.0\LeapYear.lib.csproj.CoreCompileInputs.cache
+C:\Users\trago\Desktop\Leap year\LeapYear.lib\obj\Debug\netstandard2.0\LeapYear.lib.AssemblyInfoInputs.cache
+C:\Users\trago\Desktop\Leap year\LeapYear.lib\obj\Debug\netstandard2.0\LeapYear.lib.AssemblyInfo.cs
+C:\Users\trago\Desktop\Leap year\LeapYear.lib\obj\Debug\netstandard2.0\LeapYear.lib.dll
+C:\Users\trago\Desktop\Leap year\LeapYear.lib\obj\Debug\netstandard2.0\LeapYear.lib.pdb

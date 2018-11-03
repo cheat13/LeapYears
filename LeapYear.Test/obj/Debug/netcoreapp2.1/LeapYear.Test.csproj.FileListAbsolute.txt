@@ -1,0 +1,17 @@
+C:\Users\trago\Desktop\Leap year\LeapYear.Test\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\trago\Desktop\Leap year\LeapYear.Test\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\trago\Desktop\Leap year\LeapYear.Test\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\trago\Desktop\Leap year\LeapYear.Test\bin\Debug\netcoreapp2.1\LeapYear.Test.deps.json
+C:\Users\trago\Desktop\Leap year\LeapYear.Test\bin\Debug\netcoreapp2.1\LeapYear.Test.runtimeconfig.json
+C:\Users\trago\Desktop\Leap year\LeapYear.Test\bin\Debug\netcoreapp2.1\LeapYear.Test.runtimeconfig.dev.json
+C:\Users\trago\Desktop\Leap year\LeapYear.Test\bin\Debug\netcoreapp2.1\LeapYear.Test.dll
+C:\Users\trago\Desktop\Leap year\LeapYear.Test\bin\Debug\netcoreapp2.1\LeapYear.Test.pdb
+C:\Users\trago\Desktop\Leap year\LeapYear.Test\bin\Debug\netcoreapp2.1\LeapYear.lib.dll
+C:\Users\trago\Desktop\Leap year\LeapYear.Test\bin\Debug\netcoreapp2.1\LeapYear.lib.pdb
+C:\Users\trago\Desktop\Leap year\LeapYear.Test\obj\Debug\netcoreapp2.1\LeapYear.Test.csprojAssemblyReference.cache
+C:\Users\trago\Desktop\Leap year\LeapYear.Test\obj\Debug\netcoreapp2.1\LeapYear.Test.csproj.CoreCompileInputs.cache
+C:\Users\trago\Desktop\Leap year\LeapYear.Test\obj\Debug\netcoreapp2.1\LeapYear.Test.AssemblyInfoInputs.cache
+C:\Users\trago\Desktop\Leap year\LeapYear.Test\obj\Debug\netcoreapp2.1\LeapYear.Test.AssemblyInfo.cs
+C:\Users\trago\Desktop\Leap year\LeapYear.Test\obj\Debug\netcoreapp2.1\LeapYear.Test.csproj.CopyComplete
+C:\Users\trago\Desktop\Leap year\LeapYear.Test\obj\Debug\netcoreapp2.1\LeapYear.Test.dll
+C:\Users\trago\Desktop\Leap year\LeapYear.Test\obj\Debug\netcoreapp2.1\LeapYear.Test.pdb

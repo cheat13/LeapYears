@@ -1,0 +1,14 @@
+{
+  "ProjectFilePath": "c:\\Users\\trago\\Desktop\\Leap year\\LeapYear.lib\\LeapYear.lib.csproj",
+  "TargetFramework": "netstandard2.0",
+  "TagHelpers": [],
+  "Configuration": {
+    "ConfigurationName": "UnsupportedRazor",
+    "LanguageVersion": "1.0",
+    "Extensions": [
+      {
+        "ExtensionName": "UnsupportedRazorExtension"
+      }
+    ]
+  }
+}
